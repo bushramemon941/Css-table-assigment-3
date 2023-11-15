@@ -1,0 +1,52 @@
+body{
+    background-image: url(imge/laptop.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+}
+h1, h2 ,h4{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 400;
+    color: darksalmon;
+}
+.table{
+    width: 50%;
+    border-color: rgb(126, 126, 168);
+    background-color: rgb(223, 223, 147);
+}
+.tr{
+    background-color: rgb(128, 185, 185);
+}
+.td1{
+    text-align:center ;
+    font-weight: bold;
+}
+
+.td2{
+    text-align:center ;
+    font-weight: bold;
+}
+
+.td3{
+    text-align:center ;  
+    font-weight: bold;
+}
+
+
+.td4{
+    text-align:center ;
+    font-weight: bold;
+}
+.t{
+    font-weight: bolder;
+}
+.t1{
+    font-weight: bolder;
+}
+.t2{
+    font-weight: bolder;
+}
